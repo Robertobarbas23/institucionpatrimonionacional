@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Intitución Patrimonio Nacional`,
+    title: `Institución Patrimonio Nacional`,
     description: `Recogemos todos los aspectos relevantes de nuestra institución`,
     author: `Roberto Cerdá`,
     siteUrl: `https://github.io/robertobarbas23`,

@@ -1,7 +1,5 @@
-
-
 import * as React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import Footer from "./footer"
 
 import Header from "./header"
@@ -36,6 +34,7 @@ const Layout = ({ children }) => {
           </main>
        
       </div>
+    
       <Footer
        siteTitle={data.site.siteMetadata.title }
        author= {data.site.siteMetadata.author}
