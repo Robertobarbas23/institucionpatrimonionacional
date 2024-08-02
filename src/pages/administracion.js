@@ -5,13 +5,10 @@ import { Link } from "gatsby";
 
 
 
-
-
-
-const Administracion = () => (
+const administracion = () => (
   <Layout>
-   
-    <h1>hola</h1>
+   <Link></Link>
+    <h1>administracion</h1>
   
   
   </Layout>
@@ -19,4 +16,4 @@ const Administracion = () => (
 
 export const Head = () => <Seo title="Home" />;
 
-export default Administracion;
+export default administracion;
