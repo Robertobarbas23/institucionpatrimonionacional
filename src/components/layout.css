@@ -27,6 +27,18 @@ flex-wrap: wrap;
 }
 .navegacion li a{
 text-decoration: none;
-color: black;
+color: rgb(247, 195, 7);
 }
-
+h1{
+  font-family: 'Times New Roman', Times, serif;
+}
+h2{
+  color:burlywood;
+}
+#puto{
+ 
+display: inline-flexbox;
+}
+.navegacion{
+  background-color: black;
+}
