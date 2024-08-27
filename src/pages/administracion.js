@@ -5,7 +5,7 @@ import { Link } from "gatsby";
 
 
 
-const administracion = () => (
+const Administracion = () => (
   <Layout>
    <Link></Link>
     <h1>administracion</h1>
@@ -16,4 +16,4 @@ const administracion = () => (
 
 export const Head = () => <Seo title="Home" />;
 
-export default administracion;
+export default Administracion;

@@ -8,8 +8,9 @@ import imagenPresidenta from "/src/images/presidencia.jpeg"
 
 const presidencia = () => (
   <Layout>
+    
    <Link></Link>
-    <h1>Bienvenida de la Presidenta
+    <h1>Bienvenida de la Presiddenta
     Ana de la Cueva, presidenta de Patrimonio Nacional</h1>
     <p>Bienvenidos a Patrimonio Nacional.</p>
     <img src={imagenPresidenta} alt="Imagen de la Presidenta Ana de la Cueva" />

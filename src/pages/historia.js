@@ -2,6 +2,7 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import { Link } from "gatsby";
+import imagenHistoria from "/src/images/historia.jpg"
 
 
 
@@ -12,6 +13,7 @@ const historia = () => (
   <Layout>
    <Link></Link>
     <h1>Conoce nuestra historia</h1>
+    <img src={imagenHistoria} alt="imagen" width=""/>
     <p>Patrimonio Nacional es un organismo público regulado por una Ley específica de 1982, Ley 23/1982, de 16 de junio, heredera de una larga serie de disposiciones entre las cuales cabe destacar las leyes de 1865, 1869, 1876, 1932 y 1940, aparte de las ordenanzas anteriores al siglo XIX. En definitiva, esta entidad estatal constituye el núcleo esencial y más importante del antiguo Real Patrimonio, o Patrimonio de la Corona, denominado Patrimonio de la República por la Ley de 1932, y con su nombre actual por las leyes de 1940 y 1982.</p>
 
     <p><b>Doble función: Constitucional y cultural</b></p>

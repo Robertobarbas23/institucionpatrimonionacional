@@ -10,6 +10,7 @@ import { Link } from "gatsby";
 
 const retratos = () => (
   <Layout>
+ 
    <Link></Link>
     <h1>Retratos de SS.MM.</h1>
   
