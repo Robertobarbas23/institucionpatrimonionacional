@@ -11,11 +11,10 @@ import imagenReyes from "/src/images/reyes.jpg";
 
 const Rey = () => (
   <Layout>
-  <a href="https://www.casareal.es/ES/Paginas/home.aspx" target="_blank" rel="noopener noreferrer">
-  <Link></Link>
+  
     <h1>S.M El Rey</h1>
     <img src={imagenReyes} alt="Imagen de los Reyes en Palacio de Madrid" width= "500px"/>
-</a>
+
   
   </Layout>
 );
