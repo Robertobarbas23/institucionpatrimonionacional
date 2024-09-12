@@ -14,12 +14,6 @@ import imagenSecretariageneral from "/src/images/secretariageneral.jpg"
 import imagenSecretariogeneralrey from "/src/images/secretariogeneralrey.jpg"
 import imagenSubsecretario from "/src/images/subsecretario.jpg"
 
-
-
-
-
-
-
 const Administracion = () => (
   <Layout>
   <Link></Link>

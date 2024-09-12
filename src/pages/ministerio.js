@@ -1,9 +1,8 @@
 import * as React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { Link } from "gatsby";
+import { Link } from "gatsby"
 import imagenAlmeida from "/src/images/almeida.jpg"
-
 import imagenGerente from "/src/images/gerente.jpg"
 import imagenHistoriaarte from "/src/images/historiaarte.jpg"
 import imagenIngenierosuperior from "/src/images/ingenierosuperior.jpg"
@@ -15,16 +14,11 @@ import imagenSecretariogeneralrey from "/src/images/secretariogeneralrey.jpg"
 import imagenSubsecretario from "/src/images/subsecretario.jpg"
 
 
-
-
-
-
-
 const ministerio = () => (
   <Layout>
     
   <Link></Link>
-    <h1>ADMINISTRACION</h1>
+    <h1>ADMINISTRACIÓN</h1>
     
     <p style={{ textAlign: "justify" }}>Patrimonio Nacional, como organismo público responsable de los bienes de titularidad del Estado que proceden del legado de la Corona española recogidos en la Ley 23/1982, de 16 de junio, del Patrimonio Nacional, tiene como fines principales el apoyo a la Jefatura del Estado para la alta representación que la Constitución y las leyes le atribuyen, así como la puesta a disposición de los ciudadanos del patrimonio histórico-artístico que gestiona a través de su uso con fines culturales, científicos y docentes.
 
