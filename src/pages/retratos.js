@@ -30,6 +30,7 @@ const Card = ({ imageSrc, altText, title }) => (
 
 const Retratos = () => (
   <Layout>
+       <Link></Link>
     <h1>Retratos de SS.MM.</h1>
     <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center" }}>
       <Card 

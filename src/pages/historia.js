@@ -6,6 +6,7 @@ import imagenHistoria from "/src/images/historia.jpg";
 
 const Historia = () => (
   <Layout>
+       <Link></Link>
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", minHeight: "100vh", textAlign: "center", padding: "20px" }}>
       <h1>CONOCE NUESTRA HISTORIA</h1>
       <img src={imagenHistoria} alt="Imagen" style={{ maxWidth: "49%", height: "auto", marginBottom: "20px" }} />

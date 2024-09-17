@@ -6,6 +6,7 @@ import imagenPresidenta from "/src/images/presidencia.jpeg";
 
 const Presidencia = () => (
   <Layout>
+       <Link></Link>
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", minHeight: "100vh", textAlign: "center", padding: "20px" }}>
       <h1>BIENVENIDO A LA PRESIDENCIA</h1>
       <h1>Ana de la Cueva, presidenta de Patrimonio Nacional</h1>
